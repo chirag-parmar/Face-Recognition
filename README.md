@@ -1,5 +1,5 @@
 # Face-Recognition 
-This project was aimed at providing an interface to Microsoft's Cognitive FaceAPI. The interface provides controls to add and delete persons to/from a person group, faces (photos) to/from a person's database. It also provides controls for training a group and testing data using a camera. OpenCV was used to interface the camera with the python sccript. This project was designed to be run on a Raspberry pi.
+This project was aimed at providing an interface to Microsoft's Cognitive FaceAPI. The interface provides controls to add and delete persons to/from a person group, faces (photos) to/from a person's database. It also provides controls for training a group and testing data using a camera. OpenCV was used to interface the camera with the python script. This project was designed to be run on a Raspberry pi.
 
 Instructions:
 
